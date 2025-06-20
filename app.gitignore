@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+*.egg-info/
+
+# Dataset audio files
+dataset/audio/
+*.wav
+*.mp3
+*.ogg
+
+# Logs and outputs
+stats_output.csv
+out_*.wav
+speech.mp3
+speech.wav

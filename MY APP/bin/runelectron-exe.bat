@@ -1,0 +1,2 @@
+set APPNAME=MY APP
+out\%APPNAME%-win32-x64\%APPNAME%
